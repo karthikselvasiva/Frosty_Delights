@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "Scoops",
+      "items": [
+        {
+          "id": "s1",
+          "name": "Strawberry Dream",
+          "price": 320,
+          "description": "A single scoop of bright pink strawberry ice cream on a fresh waffle cone.",
+          "image": "menu_scoops_1777718628989.png"
+        },
+        {
+          "id": "s2",
+          "name": "Vanilla Bean Classic",
+          "price": 280,
+          "description": "Rich and creamy vanilla bean ice cream scoop.",
+          "image": "vanilla_scoop_1777721396589.png"
+        },
+        {
+          "id": "s3",
+          "name": "Chocolate Fudge",
+          "price": 320,
+          "description": "Decadent dark chocolate ice cream.",
+          "image": "chocolate_scoop_1777721418874.png"
+        }
+      ]
+    },
+    {
+      "name": "Sundaes",
+      "items": [
+        {
+          "id": "su1",
+          "name": "Berry Chocolate Sundae",
+          "price": 560,
+          "description": "Chocolate and strawberry ice cream topped with whipped cream and a cherry.",
+          "image": "menu_sundae_1777718568808.png"
+        },
+        {
+          "id": "su2",
+          "name": "Caramel Crunch",
+          "price": 600,
+          "description": "Vanilla ice cream loaded with caramel sauce and crunchy nuts.",
+          "image": "caramel_sundae_1777721434639.png"
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "items": [
+        {
+          "id": "m1",
+          "name": "Mint Choco Shake",
+          "price": 440,
+          "description": "Refreshing mint chocolate chip milkshake with whipped cream.",
+          "image": "menu_milkshake_1777718647261.png"
+        },
+        {
+          "id": "m2",
+          "name": "Strawberry Blast",
+          "price": 440,
+          "description": "Thick and creamy strawberry milkshake.",
+          "image": "strawberry_milkshake_1777721449340.png"
+        }
+      ]
+    }
+  ]
+}
