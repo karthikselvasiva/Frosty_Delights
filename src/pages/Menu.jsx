@@ -51,7 +51,7 @@ const Menu = () => {
           {filteredItems.map(item => (
             <div key={item.id} className="menu-card">
               <div className="menu-img-wrapper">
-                <img src={`/src/assets/${item.image}`} alt={item.name} className="menu-img" />
+                <img src={`/${item.image}`} alt={item.name} className="menu-img" />
               </div>
               <div className="menu-content">
                 <div className="menu-header">

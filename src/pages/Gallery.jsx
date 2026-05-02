@@ -2,12 +2,12 @@ import './Gallery.css';
 
 const Gallery = () => {
   const images = [
-    { src: "/src/assets/gallery_1_1777718662768.png", alt: "Ice cream cone against sky" },
-    { src: "/src/assets/gallery_2_1777718687921.png", alt: "Bowl of colorful scoops" },
-    { src: "/src/assets/gallery_3_1777718706163.png", alt: "Three aesthetic cones" },
-    { src: "/src/assets/hero_icecream_1777718552903.png", alt: "Delicious cones assortment" },
-    { src: "/src/assets/menu_sundae_1777718568808.png", alt: "Chocolate sundae" },
-    { src: "/src/assets/menu_milkshake_1777718647261.png", alt: "Mint milkshake" },
+    { src: "/gallery_1_1777718662768.png", alt: "Ice cream cone against sky" },
+    { src: "/gallery_2_1777718687921.png", alt: "Bowl of colorful scoops" },
+    { src: "/gallery_3_1777718706163.png", alt: "Three aesthetic cones" },
+    { src: "/hero_icecream_1777718552903.png", alt: "Delicious cones assortment" },
+    { src: "/menu_sundae_1777718568808.png", alt: "Chocolate sundae" },
+    { src: "/menu_milkshake_1777718647261.png", alt: "Mint milkshake" },
   ];
 
   return (

@@ -26,7 +26,7 @@ const CartSidebar = ({ isOpen, closeCart, items, removeFromCart, updateQuantity 
             <div className="cart-items">
               {items.map(item => (
                 <div key={item.id} className="cart-item">
-                  <img src={`/src/assets/${item.image}`} alt={item.name} className="cart-item-img" />
+                  <img src={`/${item.image}`} alt={item.name} className="cart-item-img" />
                   <div className="cart-item-details">
                     <h4>{item.name}</h4>
                     <p className="item-price">₹{item.price.toFixed(2)}</p>

@@ -44,7 +44,7 @@ const Home = () => {
           </div>
           <div className="hero-image-wrapper">
             <div className="blob"></div>
-            <img src="/src/assets/hero_icecream_1777718552903.png" alt="Delicious Ice Cream" className="hero-image" />
+            <img src="/hero_icecream_1777718552903.png" alt="Delicious Ice Cream" className="hero-image" />
           </div>
         </div>
       </section>
@@ -59,17 +59,17 @@ const Home = () => {
           
           <div className="popular-grid">
             <div className="popular-card">
-              <img src="/src/assets/menu_scoops_1777718628989.png" alt="Strawberry Dream" />
+              <img src="/menu_scoops_1777718628989.png" alt="Strawberry Dream" />
               <h3>Strawberry Dream</h3>
               <p>Fresh strawberries folded into sweet cream.</p>
             </div>
             <div className="popular-card">
-              <img src="/src/assets/menu_sundae_1777718568808.png" alt="Berry Chocolate Sundae" />
+              <img src="/menu_sundae_1777718568808.png" alt="Berry Chocolate Sundae" />
               <h3>Berry Chocolate Sundae</h3>
               <p>The perfect blend of chocolate and berries.</p>
             </div>
             <div className="popular-card">
-              <img src="/src/assets/menu_milkshake_1777718647261.png" alt="Mint Choco Shake" />
+              <img src="/menu_milkshake_1777718647261.png" alt="Mint Choco Shake" />
               <h3>Mint Choco Shake</h3>
               <p>Refreshing mint with rich chocolate chips.</p>
             </div>
